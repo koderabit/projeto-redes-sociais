@@ -12,7 +12,7 @@ html, body {
 }
 
 body {
-    background: url(fundo-madeira.jpg) no-repeat top center;
+    background: url('fundo-madeira.jpg') no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -29,7 +29,7 @@ section#telefone {
     transform: translate(-50%, -50%);
     height: 627px;
     width: 311px;
-    background: url(frame-iphone.png) no-repeat;
+    background: url('frame-iphone.png') no-repeat;
 
 }
 
